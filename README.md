@@ -23,7 +23,7 @@ This project consumes the GraphQL API available at https://countries.trevorblade
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/countries-challenge.git
+git clone https://github.com/requiemcreatif/Countries-challenge.git
 cd countries-challenge
 ```
 
@@ -66,4 +66,5 @@ query Countries {
   }
 }
 ```
+
 # Countries-challenge
