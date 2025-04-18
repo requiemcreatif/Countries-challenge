@@ -20,6 +20,10 @@ Alain Mani
 
 This project consumes the GraphQL API available at https://countries.trevorblades.com/ to display the list of countries. Users can filter countries by code as required, also view detailed information with the tooltips, navigate through paginated results, and toggle between light and dark themes.
 
+## Live Demo
+
+The application is deployed and accessible at: [https://countries-challenge-self.vercel.app](https://countries-challenge-self.vercel.app)
+
 ## Screenshots
 
 <div align="center">
