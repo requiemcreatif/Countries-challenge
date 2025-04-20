@@ -8,7 +8,7 @@ I selected Next.js, Apollo Client, and TypeScript as the core technologies becau
 
 The project structure separates concerns into distinct folders (components, providers, graphql, types), making it maintainable and extendable. My implementation choices, such as the tooltip functionality, theme toggling, and responsive design, to provide a bit more details and focus on user experience instead of just meeting basic requirements.
 
-This application is more than just a coding challenge—it's a demonstration of how I approach software development with scalability and quality in mind from the start.
+This application shows how I approach software development with scalability and quality in mind from the start.
 
 I hope you like it. Please feel free to provide some feedback.
 
